@@ -1,0 +1,8 @@
+{
+  "name": "uifx-styles",
+  "version": "1.0.0",
+  "description": "UIFX CSS Library",
+  "main": "dist/uifx.css",
+  "style": "dist/uifx.css",
+  "license": "MIT"
+}
